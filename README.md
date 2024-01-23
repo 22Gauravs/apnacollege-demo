@@ -1,3 +1,3 @@
 # apnacollege-demo
-mt first gt repository
-author gaurav <br>
+mt first gt repository <br>
+author gaurav
